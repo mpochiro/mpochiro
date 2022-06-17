@@ -1,5 +1,5 @@
 -Hello my name is Michael Pochiro
-I am a developer that is working with Python with past experience with ReactJS and the now depricated React360. Replaced for Closed source Meta language
+I am a developer that is working with Python with past experience with ReactJS and the now depricated React360. Replaced for Closed source Meta language.
 I'm excited to get more things started and more information out there.
 
 <!---
